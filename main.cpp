@@ -9,7 +9,7 @@ int main()
   cin >> l;
   cin >> w;
   int a = l*w;
-  int p = (l+w)*2;
+  int per = (l+w)*2;
   cout << "Area: " << a << endl;
-  cout << "Perimeter: " << p;
+  cout << "Perimeter: " << per;
 }
